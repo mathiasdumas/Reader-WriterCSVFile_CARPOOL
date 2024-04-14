@@ -1,0 +1,14 @@
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/bin/Debug/net8.0/ScriptCARPOOL
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/bin/Debug/net8.0/ScriptCARPOOL.deps.json
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/bin/Debug/net8.0/ScriptCARPOOL.runtimeconfig.json
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/bin/Debug/net8.0/ScriptCARPOOL.dll
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/bin/Debug/net8.0/ScriptCARPOOL.pdb
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.AssemblyInfoInputs.cache
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.AssemblyInfo.cs
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.dll
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/refint/ScriptCARPOOL.dll
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.pdb
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ScriptCARPOOL.genruntimeconfig.cache
+/Users/barbara/Projects/ScriptCARPOOL/ScriptCARPOOL/obj/Debug/net8.0/ref/ScriptCARPOOL.dll
